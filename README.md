@@ -83,7 +83,55 @@ Ejemplos de software que la utilizan:
   
   
 # ANÁLISIS DE  LICENCIAS DE DOCUMENTACIÓN LIBRE
-## Creative commons  Atributtion-Sharelike
+## Creative commons  Atributtion-Sharelike 4.0 license
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# REFERENCIAS
+* "Licencia de software". Wikipedia. Disponible en https://es.wikipedia.org/wiki/Licencia_de_software
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
