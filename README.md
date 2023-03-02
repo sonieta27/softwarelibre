@@ -34,14 +34,80 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
   
 * Licencia de software de código abierto robustas
 Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
+   *  Licencias de software de código abierto robustas fuertes
+Las licencias de software de código abierto robustas fuertes o con copyleft fuerte, contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original.
 
+       * TIPOS:
+          Common Public License v.1.0.
+          GNU General Public License v.2.0.
+          GNU General Public License v.3.0.
+          Eclipse Public License.
+          eCos License v.2.0
+          Sleepycat Software Product License.
+          Affero License v.1.0
+          Affero License v.2.0
+          OpenSSL License.
 
-  
-  
-  
-  
-  
-  
-  
-  
+   *  Licencias de software de código abierto robustas débiles
+Las licencias de software de código abierto robustas débiles, con copyleft débil/suave o híbridas, contienen una cláusula que obliga a que las modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original, pero que las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
 
+       *TIPOS:
+         GNU Lesser General Public License v.2.1.
+         Mozilla Public License
+         Open Source License.
+         Apple Source License v.2.0
+         CDDL.
+         EUPL.
+       
+
+* Licencia de software de código cerrado
+Estas licencias también se conocen con el nombre de «software propietario» o privativo. En ellas los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria.
+  
+* Software de dominio público (sin licencia)
+Se permite uso, copia, modificación o redistribución con o sin fines de lucro.
+
+# ANÁLISIS DE LICENCIAS DE SOFTWARE LIBRE
+
+## GPL v3.0
+La Licencia Pública General de GNU,llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3.
+
+Ejemplos de software que la utilizan:
+   * [GameShell] ("https://github.com/phyver/GameShell)"
+
+## TIPOS DE SOFTWARE LIBRE
+
+## LGPL v3.0
+La licencia pública general reducida de GNU (LGPL de GNU) se usa para algunas -pero no para todas- las bibliotecas de GNU. La última es la versión 3.
+Ejemplos de software que la utilizan:
+* [Ethereum-go] "(https://github.com/ethereum/go-ethereum)"
+  
+  
+# ANÁLISIS DE  LICENCIAS DE DOCUMENTACIÓN LIBRE
+## Creative commons  Atributtion-Sharelike
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
