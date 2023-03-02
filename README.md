@@ -32,7 +32,7 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
   * PHP License v.3.0
   * VMS License.
   
-##  Licencia de software de código abierto robustas
+* Licencia de software de código abierto robustas
 Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
 
 
