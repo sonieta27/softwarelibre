@@ -80,9 +80,45 @@ Ejemplos de software que la utilizan:
 La licencia pública general reducida de GNU (LGPL de GNU) se usa para algunas -pero no para todas- las bibliotecas de GNU. La última es la versión 3.
 Ejemplos de software que la utilizan:
 * [Ethereum-go] "(https://github.com/ethereum/go-ethereum)"
-  
-  
+
+## Licencias GPL
+Una de las más utilizadas es la Licencia Pública General de GNU (GNU GPL). El autor conserva los derechos de autor (copyright), y permite la redistribución y modificación bajo términos diseñados para asegurarse de que todas las versiones modificadas del software permanecen bajo los términos más restrictivos de la propia GNU GPL.
+
+## Licencias AGPL  
+Es una licencia copyleft derivada de la Licencia Pública General de GNU diseñada específicamente para asegurar la cooperación con la comunidad en el caso de software que corra en servidores de red.
+
+## Licencias Estilo BSD
+ Licencia permisiva que casi no impone condiciones sobre lo que un usuario puede hacer con el software.
+ 
+## Licencia PSFL
+Es una licencia de software libre permisiva, al estilo de la licencia BSD, es decir, que cumple con los requisitos OSI para ser declarada licencia de software libre; además, es compatible con la licencia GPL.
+
+## Licencia MIT
+El texto de la licencia no tiene copyright, lo que permite su modificación.
+
+## Licencias MPL y derivadas
+La MPL es Software Libre y promueve eficazmente la colaboración evitando el efecto "viral" de la GPL (si usas código licenciado GPL, tu desarrollo final tiene que estar licenciado GPL).
+
+## Licencia CDDL
+También conocida como Sun Public License (SPL) versión 2, es una licencia de código abierto (OSI) y libre, producida por Sun Microsystems, basada en la Mozilla Public License o MPL, versión 1.1. La licencia CDDL fue enviada para su aprobación al Open Source Initiative el 1 de diciembre de 2004, y fue aprobada como una licencia de código abierto a mediados de enero de 2005.
+
+## Licencias EPL
+Sustituye a la Licencia Pública Común (CPL) y elimina ciertas condiciones relativas a los litigios sobre patentes. La Licencia Pública de Eclipse está diseñado para ser una licencia de software favorable a los negocios y cuenta con disposiciones más débiles que las licencias copyleft contemporáneas.
+
+## Licencia APSL
+La Apple Public Source License es la licencia de código abierto y de software libre bajo la cual se publicó el sistema operativo de Apple, Darwin.
+
+## Licencia Apache
+Es una licencia de software libre creada por la Apache Software Foundation (ASF). La licencia (con versiones 1.0, 1.1 y 2.0) requiere la conservación del aviso de copyright y el disclaimer, pero no es una licencia copyleft, ya que no requiere la redistribución del código fuente cuando se distribuyen versiones modificadas ni siquiera que se tengan que distribuir como software libre/open source, solo exige que se mantenga una noticia que informe a los receptores que en la distribución se ha usado código con la Licencia Apache.
+
+## Licencia PHP
+La licencia PHP es la licencia bajo la cual se publica el lenguaje de programación PHP. De acuerdo a la Free Software Foundation es una licencia de software libre no copyleft y una licencia de código abierto según la Open Source Initiative. Debido a la restricción en el uso del término "PHP", no es compatible con la licencia GPL.
+
+# (FALTAN LOS EJEMPLOS)
+
 # ANÁLISIS DE  LICENCIAS DE DOCUMENTACIÓN LIBRE
+La Licencia de documentación libre de GNU es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
+
 ## Creative commons  Atributtion-Sharelike 4.0 license
   
   
@@ -112,6 +148,7 @@ Ejemplos de software que la utilizan:
 
 # REFERENCIAS
 * "Licencia de software". Wikipedia. Disponible en https://es.wikipedia.org/wiki/Licencia_de_software
+* "GNU General Public License" https://es.wikipedia.org/wiki/GNU_General_Public_License
   
   
   
