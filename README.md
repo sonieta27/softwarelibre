@@ -139,7 +139,7 @@ El beneficiario de la licencia tiene el derecho de distribuir obras derivadas ba
 
 
 
-
+# FALTAN TAMBIÉN LOS EJEMPLOS
 
 
 
@@ -151,31 +151,7 @@ Libertad de usar el programa, con cualquier propósito. Libertad de acceso al c�
 
   
   
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# REFERENCIAS
+  # REFERENCIAS
 * "Licencia de software". Wikipedia. Disponible en https://es.wikipedia.org/wiki/Licencia_de_software
 * "GNU General Public License" https://es.wikipedia.org/wiki/GNU_General_Public_License
 * https://educrea.cl/ventajas-utilizar-software-libre-la-educacion/#:~:text=Libertad%20de%20usar%20el%20programa,modificar%20y%20mejorar%20el%20programa.
