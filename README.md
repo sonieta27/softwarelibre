@@ -120,8 +120,21 @@ La licencia PHP es la licencia bajo la cual se publica el lenguaje de programaci
 La Licencia de documentación libre de GNU es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
 
 ## Creative commons  Atributtion-Sharelike 4.0 license
+Atribución
+(BY)
+El beneficiario de la licencia tiene el derecho de copiar, distribuir, exhibir y representar la obra y hacer obras derivadas siempre y cuando reconozca y cite la obra de la forma especificada por el autor o el licenciante.
 
+## Non-commercial	No Comercial
+(NC)
+El beneficiario de la licencia tiene el derecho de copiar, distribuir, exhibir y representar la obra y hacer obras derivadas para fines no comerciales.
 
+## Non-derivative	No Derivadas
+(ND)
+El beneficiario de la licencia solamente tiene el derecho de copiar, distribuir, exhibir y representar copias literales de la obra y no tiene el derecho de producir obras derivadas.
+
+## Share-alike	Compartir Igual
+(SA)
+El beneficiario de la licencia tiene el derecho de distribuir obras derivadas bajo una licencia idéntica a la licencia que regula la obra original.
 
 
 
@@ -134,8 +147,7 @@ La Licencia de documentación libre de GNU es una licencia copyleft para conteni
 # Ventajas del software libre para la sociedad
 
 Libertad de usar el programa, con cualquier propósito. Libertad de acceso al código fuente del programa. Libertad de copiado y distribución. Libertad de modificar y mejorar el programa.Datos personales confidenciales, Garantiza la perdurabilidad de las aplicaciones, Optimiza de inversión pública, Fomenta la innovación tecnológica, Favorece la interoperabilidad entre sistemas, Permite una independencia tecnológica
-, Evita los perjuicios de la propiedad intelectual en el software, Apoyo técnico, Protección de modalidades lingüísticas, Estabilidad
-.
+, Evita los perjuicios de la propiedad intelectual en el software, Apoyo técnico, Protección de modalidades lingüísticas, Estabilidad.
 
   
   
@@ -168,6 +180,7 @@ Libertad de usar el programa, con cualquier propósito. Libertad de acceso al c�
 * "GNU General Public License" https://es.wikipedia.org/wiki/GNU_General_Public_License
 * https://educrea.cl/ventajas-utilizar-software-libre-la-educacion/#:~:text=Libertad%20de%20usar%20el%20programa,modificar%20y%20mejorar%20el%20programa.
 * https://www.elsalmoncontracorriente.es/?Las-10-ventajas-del-software-libre
+* https://es.wikipedia.org/wiki/Licencias_Creative_Commons
   
   
   
