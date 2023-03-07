@@ -114,7 +114,6 @@ Es una licencia de software libre creada por la Apache Software Foundation (ASF)
 ## Licencia PHP
 La licencia PHP es la licencia bajo la cual se publica el lenguaje de programación PHP. De acuerdo a la Free Software Foundation es una licencia de software libre no copyleft y una licencia de código abierto según la Open Source Initiative. Debido a la restricción en el uso del término "PHP", no es compatible con la licencia GPL.
 
-# (FALTAN LOS EJEMPLOS)
 
 # ANÁLISIS DE  LICENCIAS DE DOCUMENTACIÓN LIBRE
 La Licencia de documentación libre de GNU es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
@@ -138,8 +137,6 @@ El beneficiario de la licencia tiene el derecho de distribuir obras derivadas ba
 
 
 
-
-# FALTAN TAMBIÉN LOS EJEMPLOS
 
 
 
