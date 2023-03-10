@@ -116,12 +116,15 @@ La licencia PHP es la licencia bajo la cual se publica el lenguaje de programaci
 
 
 # ANÁLISIS DE  LICENCIAS DE DOCUMENTACIÓN LIBRE
+
 La Licencia de documentación libre de GNU es una licencia copyleft para contenido libre, diseñada por la Fundación para el Software Libre (FSF) para el proyecto GNU.
 
 ## Creative commons  Atributtion-Sharelike 4.0 license
 Atribución
 (BY)
 El beneficiario de la licencia tiene el derecho de copiar, distribuir, exhibir y representar la obra y hacer obras derivadas siempre y cuando reconozca y cite la obra de la forma especificada por el autor o el licenciante.
+
+# Tipos de licencia de documentaciónón libre
 
 ## Non-commercial	No Comercial
 (NC)
@@ -135,8 +138,18 @@ El beneficiario de la licencia solamente tiene el derecho de copiar, distribuir,
 (SA)
 El beneficiario de la licencia tiene el derecho de distribuir obras derivadas bajo una licencia idéntica a la licencia que regula la obra original.
 
+#  Ejemplos
 
+GNU Free Documentation License (#FDL)Esta es una licencia hecha para documentación libre con copyleft. Planeamos adoptarla para todos los manuales de GNU. También es adecuada para otros tipos de obras útiles, como por ejemplo libros de texto y diccionarios. Su aplicación no se limita a obras de texto («libros»).
 
+FreeBSD Documentation License (#FreeBSDDL)
+Esta es una licencia de documentación libre y permisiva, sin copyleft, que es compatible con la FDL de GNU.
+
+Apple's Common Documentation License, versión 1.0 (#ACDL)
+Esta en una licencia de documentación libre, incompatible con la FDL de GNU. Es incompatible porque la sección (2c) dice «No agregue otros términos ni condiciones a esta licencia», y la FDL de GNU posee cláusulas adicionales que no están contempladas en la Common Documentation License.
+
+Open Publication License, versión 1.0 (#OpenPublicationL)
+Esta licencia puede ser utilizada como de documentación libre. Es una licencia libre con copyleft para documentación , siempre y cuando el titular del copyright no ejerza ninguna de las «OPCIONES DE LA LICENCIA» que se mencionan en la sección VI. Pero si se invoca cualquiera de esas opciones, la licencia se vuelve privativa. En cualquier caso, es incompatible con la FDL de GNU.
 
 
 
@@ -154,6 +167,8 @@ Libertad de usar el programa, con cualquier propósito. Libertad de acceso al c�
 * https://educrea.cl/ventajas-utilizar-software-libre-la-educacion/#:~:text=Libertad%20de%20usar%20el%20programa,modificar%20y%20mejorar%20el%20programa.
 * https://www.elsalmoncontracorriente.es/?Las-10-ventajas-del-software-libre
 * https://es.wikipedia.org/wiki/Licencias_Creative_Commons
+* https://www.gnu.org/licenses/licenses.es.html
+* https://www.gnu.org/licenses/license-list.html
   
   
   
